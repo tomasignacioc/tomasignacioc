@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React-Redux, ExpressJs, Sequelize**
 
-- 📫 How to reach me **contrerastomas7@gmail.com ; https://www.linkedin.com/in/tomascontreras-fsd/**
+- 📫 How to reach me **contrerastomas7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
