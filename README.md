@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **AtechnasApp**
 
+- 📄 Know about my experiences [https://pi-food-tomas.vercel.app/](https://pi-food-tomas.vercel.app/)
+
 - 🌱 I’m currently learning **Auth, payments, blockchain**
 
 - 💬 Ask me about **JavaScript, React-Redux, ExpressJs, Sequelize**
