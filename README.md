@@ -12,7 +12,7 @@ React, Redux, Express and PostreSQL. It shows a list of recipes with it's respec
 can submit your own recipe! It consumes from de Spoonacular API.
 
  Atechnas: [https://atechnas-app.vercel.app/](https://atechnas-app.vercel.app/). A group project where incorporates MercadoPago Marketplace.
-Here you can create an account, link you mercadopago account and receive payments for the jobs you post. 
+Here you can create an account, link your mercadopago account and receive payments for the jobs you post. 
 
 - 🌱 I’m currently learning **Auth, payments, blockchain**
 
