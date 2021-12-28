@@ -5,14 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasignacioc" alt="tomasignacioc" /></a> </p>
 
-- 🔭 I’m currently working on **AtechnasApp**
+- 🔭 I’m currently working on **Personal projects**
 
 - 📄 Know about my experiences [https://pi-food-tomas.vercel.app/](https://pi-food-tomas.vercel.app/) . An individual project made with
 React, Redux, Express and PostreSQL. It shows a list of recipes with it's respective summary and step by step and also a form where you
 can submit your own recipe! It consumes from de Spoonacular API.
 
- Atechnas: [https://atechnas-app.vercel.app/](https://atechnas-app.vercel.app/). A group project where incorporates MercadoPago Marketplace.
-Here you can create an account, link your mercadopago account and receive payments for the jobs you post. 
+ Atechnas: [https://atechnas-app.vercel.app/](https://atechnas-app.vercel.app/).
+[https://github.com/Atechnas-App/atechnasapp](https://github.com/Atechnas-App/atechnasapp)
+A group project where incorporates MercadoPago Marketplace.
+Here you can create an account, link your mercadopago account and receive payments for the jobs you post.
+
+Cryptoverse: [https://cryptoverse-tomasignacioc.vercel.app/](https://cryptoverse-tomasignacioc.vercel.app/)
+Here you can see the latest news, value, capitalization and others of the top cryptocurrencies in the world. Also has information of the exchanges.
+New technologies I used for this project: 
+. Ant Design: world's second most popular React UI framework
+. Redux Toolkit: another excellent way to build a store, reducer and actions
+
 
 - 🌱 I’m currently learning **Auth, payments, blockchain**
 
