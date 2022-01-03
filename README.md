@@ -23,7 +23,7 @@ New technologies I used for this project:
 . Redux Toolkit: another excellent way to build a store, reducer and actions
 
 
-- 🌱 I’m currently learning **Auth, payments, blockchain**
+- 🌱 I’m currently learning **blockchain development - solidity**
 
 - 💬 Ask me about **JavaScript, React-Redux, ExpressJs, Sequelize**
 
