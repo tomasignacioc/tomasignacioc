@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **Personal projects**
 
 - 📄 Know about my experiences:
+
  Food App: [https://pi-food-tomas.vercel.app/](https://pi-food-tomas.vercel.app/) . An individual project made with
 React, Redux, Express and PostreSQL. It shows a list of recipes with it's respective summary and step by step and also a form where you
 can submit your own recipe! It consumes from de Spoonacular API.
