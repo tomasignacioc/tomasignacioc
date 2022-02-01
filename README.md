@@ -24,6 +24,10 @@ New technologies I used for this project:
 . Ant Design: world's second most popular React UI framework
 . Redux Toolkit: another excellent way to build a store, reducer and actions
 
+Amazon clone: [https://vimeo.com/user165312063/review/672167448/14edf157ee](https://vimeo.com/user165312063/review/672167448/14edf157ee)
+An e-commerce that implements firebase and stripe functionalities for user authentication, database management and payment processing.
+(Not deployed because it requires blaze plan for hosting the API)
+
 
 - 🌱 I’m currently learning **blockchain development - solidity**
 
