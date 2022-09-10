@@ -17,6 +17,9 @@ Here you can create an account, link your mercadopago account and receive paymen
 MoviePop: [https://moviepop-ui.vercel.app/](https://moviepop-ui.vercel.app/)
 React/Node app made in a week for a challenge
 
+MoviePop2: [https://moviepop2ui.vercel.app/](https://moviepop2ui.vercel.app/)
+This one is made with MUI and Laravel
+
 - 🌱 I’m currently learning **PHP - Laravel**
 
 - 💬 Ask me about **JavaScript, React, Node.js, Sequelize**
