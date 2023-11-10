@@ -5,24 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasignacioc" alt="tomasignacioc" /></a> </p>
 
-- 🔭 I’m currently working on **Sitenso Comercial**
-
-- 📄 Know about my experiences:
-
- Atechnas: [https://atechnasapp.vercel.app/](https://atechnasapp.vercel.app/).
-[https://github.com/Atechnas-App/atechnasapp](https://github.com/Atechnas-App/atechnasapp)
-A group project where incorporates MercadoPago Marketplace.
-Here you can create an account, link your mercadopago account and receive payments for the jobs you post.
-
-MoviePop: [https://moviepop-ui.vercel.app/](https://moviepop-ui.vercel.app/)
-React/Node app made in a week for a challenge
-
-MoviePop2: [https://moviepop2ui.vercel.app/](https://moviepop2ui.vercel.app/)
-This one is made with MUI and Laravel
-
-- 🌱 I’m currently learning **PHP - Laravel**
-
-- 💬 Ask me about **JavaScript, React, Node.js, Sequelize**
+- 🔭 I’m currently working on **Vana**
 
 - 📫 How to reach me **contrerastomas7@gmail.com**
 
