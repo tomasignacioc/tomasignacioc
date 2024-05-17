@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
-<h3 align="center">FullStack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasignacioc&label=Profile%20views&color=0e75b6&style=flat" alt="tomasignacioc" /> </p>
+<h3 align="center">Backend Engineer</h3>
 
 - 🔭 I’m currently working on **Vana**
 
