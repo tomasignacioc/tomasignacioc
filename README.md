@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">Backend Engineer</h3>
 
-- 🔭 I’m currently working on **Vana**
+- 🔭 I’m currently working in **Vana**
 
 - 📫 How to reach me **contrerastomas7@gmail.com**
 
